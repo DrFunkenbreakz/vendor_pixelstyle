@@ -21,9 +21,7 @@ PRODUCT_PACKAGES += \
     NexusLauncherRelease \
     NexusWallpapersStubPrebuilt2019 \
     OPScreenRecord \
-    PixelLiveWallpaperPrebuilt \
     PixelThemesStub2019 \
-    SafetyHubPrebuilt \
     SettingsIntelligenceGooglePrebuilt
 
 ifeq ($(CUSTOM_BUILD_TYPE), OFFICIAL)
